@@ -9,11 +9,15 @@ body{
     margin: 50px;
     font-size: 30px;
 }
+
+input {
+    margin: 50px;
+}
 .container {
     flex:1 0;
     display: flex;
     flex-wrap: wrap;
-    width: 45vw;
+    width: 950px;
 }
 
 .square {
